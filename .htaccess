@@ -1,0 +1,25 @@
+#################
+# BEGIN OPTIONS #
+#################
+
+Options All -Indexes
+Options +FollowSymlinks
+
+# END OPTIONS
+
+###################
+# BEGIN REDIRECTS #
+###################
+
+RewriteEngine on
+
+#REDIRECT FOR HTTPS
+#RewriteCond %{HTTPS} !on
+#RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+
+#REDIRECT TO GLOBAL CONTROLLLER
+
+RewriteRule ^/?(.*) global.request.php
+#n[NC,L,QSA,CO=RewriteRule;01;controller.global.php;30/;SameSite=None;Secure]
+
+#END REDIRECTS
