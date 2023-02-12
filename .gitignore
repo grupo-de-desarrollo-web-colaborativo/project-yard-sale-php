@@ -1,5 +1,6 @@
 # Personalized files and folders
 php/vendor
+php/db-data.php
 
 # Logs
 logs

@@ -7,7 +7,7 @@ $maintenance = FALSE;
 /*
 		DATOS GENERALES DEL PROYECTO
 	*/
-$project_folder = "yardSale";		//Nombre del proyecto usado como carpeta o nombre asociativo
+$project_folder = "yardsale";		//Nombre del proyecto usado como carpeta o nombre asociativo
 $project_name = "Yard Sale";		//Nombre visual del proyecto
 $server_prefix = "pcbogcom";			//prefijo asignado por el ISP
 

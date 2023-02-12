@@ -4,7 +4,7 @@
 
 #### A tener en cuenta:
 
-El proyecto en PHP utilizará recursos (código, imagenes, etc) de los otros miebros del proyecto. La idea de crear el proyecto en PHP es mostrar como se puede realizar este proyecto utilizando una base creada previamente en HTML
+El proyecto en PHP utilizará recursos (código, imagenes, etc) de los otros miembros del proyecto. La idea de crear el proyecto en PHP es mostrar como se puede realizar este proyecto utilizando una base creada previamente en HTML
 
 ---
 
