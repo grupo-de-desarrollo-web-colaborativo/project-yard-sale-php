@@ -1,0 +1,56 @@
+/* Yard Sale eCommerce - proyecto colaborativo */ 
+
+	Chef: Edwin Miguel Orellana
+	Contact: 
+	From: 
+
+
+/* FRONTEND TEAM */
+	Name: Carlos Zuluaga (kailu90)
+	Github: https://github.com/kailu90
+	Discord: Carlos Zuluaga#0601
+	Github branch: https://github.com/grupo-de-desarrollo-web-colaborativo/Proyecto-Yard-Sale-equipo-1/tree/carlosz
+	From: Pereira - Colombia
+
+	Name: Frank Gaspar (fradev)
+	Web: https://frankgaspar.vercel.app/
+	Github: https://github.com/fradevgb
+	Discord: fradev#8076
+	Github branch: https://github.com/grupo-de-desarrollo-web-colaborativo/Proyecto-Yard-Sale-equipo-1/tree/fradev
+	From: Bolivia
+
+	Name: ??????????????? (huilensolis)
+	Web: https://??????????????????
+	Github: https://github.com/?????????????????
+	Discord: ?????????????????????
+	Github branch: https://github.com/grupo-de-desarrollo-web-colaborativo/Proyecto-Yard-Sale-equipo-1/tree/?????????????????
+	From: ????????????
+
+	Name: Alexander Flores Rayme (lexand)
+	Web: https://??????????????????
+	Github: https://github.com/Lexand-dev
+	Discord: lexand#6150
+	Github branch: https://github.com/grupo-de-desarrollo-web-colaborativo/Proyecto-Yard-Sale-equipo-1/tree/lexand
+	From: Perú
+
+	Name: ???????????? (nekronix)
+	Web: https://??????????????????
+	Github: https://github.com/Nekronix
+	Discord: ????????????????
+	Github branch: https://github.com/grupo-de-desarrollo-web-colaborativo/Proyecto-Yard-Sale-equipo-1/tree/nekronix
+	From: ?????????
+
+
+/* BACKEND TEAM */
+	Name: Andres Salazar (Andy / ChyBeat)
+	web: https://www.pcbogota.com
+	Github: https://github.com/chybeat
+	Discord: ChyBeat#9103
+	Github branch: https://github.com/grupo-de-desarrollo-web-colaborativo/project-yard-sale-php/main
+	From: Bogotá - Colombia
+
+/* SITE */
+	Last update: Feb/6/2022
+	Language: Español
+	Doctype: HTML5
+	IDE: Visual Studio Code

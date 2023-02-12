@@ -1,0 +1,16 @@
+<header class="main-header">
+	<i id="menu-icon" class="icon-menu" title="Yard Sale menú"></i>
+	{{$header_title}}
+
+	<!-- Si es en celus puede aparacer cualquiera de los siguentes
+	En desktop siempre se vé <img src="{{$IMG_LIB}}/logo-yard-sale.svg" alt="logo-yard-sale" width="144" height="30"> 
+	En desktop nunca se vé <h2>Shopping cart</h2>
+	En desktop nunca se vé <h2>My orders</h2>-->
+
+	<!-- nav_list develop with Fradev's code inspiration, but created programatically from PHP-->
+	{{$nav_list}}
+	{{$user_actions}}
+	<i id="main-header__cart-icon" class="icon-shopping-cart" title="Shopping cart">
+		<span class="cart-status{{$cart_status}}"></span>
+	</i>
+</header>

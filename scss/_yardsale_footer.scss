@@ -1,0 +1,47 @@
+body>footer {
+	text-align: center;
+	padding: 0.5em;
+	height: var(--footer-height);
+
+	section {
+		padding: 0.5em 0;
+		max-width: var(--limit-content-width);
+		margin: 0 auto;
+	}
+
+	#developers {
+		.heart {
+			color: var(--hospital-green);
+		}
+
+		.copyright__text {
+			display: block;
+		}
+
+		.license {
+			padding-top: 1em;
+
+			a {
+				display: inline-block;
+
+				&:first-child {
+					margin-right: 1em;
+				}
+			}
+		}
+	}
+}
+
+@media screen and (min-width:25em) {
+	:root {
+		--footer-height: 8.5em;
+	}
+
+	body>footer {
+		#developers {
+			.copyright__text {
+				display: inline;
+			}
+		}
+	}
+}

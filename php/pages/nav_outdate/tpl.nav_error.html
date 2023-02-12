@@ -1,0 +1,28 @@
+{{$head}}
+<body>
+	{{$common_header}}
+	<main class="error__container">
+		<h1>Error crítico</h1>
+		<article class="container-limit-800">
+			<p>
+				Este navegador <strong>NO</strong> soporta <em>HTML5</em>, <em>CSS3</em> o <em>JavaScript</em> en parte o su totalidad, por tal
+				motivo no es capaz de procesar el manejo de información que esta página requiere.
+			</p>
+			<p>
+				Te sugerimos usar <strong>la versión mas actualizada</strong> de <a href="//mozilla.org/es-ES/firefox">Firefox Browser</a> o
+				<a href="//google.com/chrome">Google Chrome</a> para una mejor experiencia.
+			</p>
+			<div class="downLink">
+				<a class="down-logo" href="//google.com/chrome"
+					><img src="{{$IMG_LIB}}/logo-chrome.png" title="Descargar Google Chrome" /><br />Descargar<br />Google Chrome</a
+				>
+			</div>
+			<div class="downLink">
+				<a class="down-logo" href="//mozilla.org/es-ES/firefox"
+					><img src="{{$IMG_LIB}}/logo-firefox.png" title="Descargar Mozilla Firefox" /><br />Descargar<br />Firefox</a
+				>
+			</div>
+		</article>
+	</main>
+	{{$common_footer}}
+</body>

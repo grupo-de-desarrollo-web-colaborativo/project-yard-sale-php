@@ -1,0 +1,25 @@
+<footer>
+	<section class="contact">
+		<p class="contact__text">
+			<span>Write us to</span>
+			<span>{{$email}}</span>
+		</p>
+	</section>
+	<section id="developers">
+		<p>
+			Made with <span class="heart">❤</span> |
+			<span class="copyright__text">{{$copyright}}</span>
+		</p>
+		<div class="license">
+			<a class="license_mit" href="{{$SERVER_URL}}/copyright"
+				title="This work is licensed under MIT license. Clock to read MIT License for Yard Sale project">
+				<img src="{{$IMG_LIB}}/license-mit-green.svg" alt="MIT licese logo" width="125" height="32">
+			</a>
+			<a class="license_humans" href="humans.txt" target="_blank" class="humans-link">
+				<img src="{{$IMG_LIB}}/logo-humanstxt-org.svg" alt="Developers humans.txt file link" width="116"
+					height="32">
+			</a>
+		</div>
+	</section>
+</footer>
+{{$jscripts}}

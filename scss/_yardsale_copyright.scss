@@ -1,0 +1,22 @@
+#license-text {
+	display: grid;
+	place-items: center;
+	align-content: center;
+	max-width: 31em;
+	margin: 0 auto;
+	min-height: calc(100vh - var(--header-height) - var(--footer-height));
+
+	h1,
+	h2 {
+		width: 100%;
+	}
+
+	h2 {
+		font-size: 1.6rem;
+		text-align: left;
+	}
+
+	.big-paragraph {
+		margin: 1em 0;
+	}
+}
